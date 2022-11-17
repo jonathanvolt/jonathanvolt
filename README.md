@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Jonathan from São Paulo (Brazil). I am a Software Developer Student at FATEC Osasco. ⚡
 
 <!--
 **jonathanvolt/jonathanvolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
